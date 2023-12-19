@@ -11,3 +11,8 @@
 
 #!.yarn/cache
 .pnp.*
+
+# Flask API
+api/book-reviews/*
+
+data/*
