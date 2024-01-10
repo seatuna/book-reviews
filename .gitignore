@@ -12,7 +12,11 @@
 #!.yarn/cache
 .pnp.*
 
-# Flask API
-api/book-reviews/*
-
+# Data and Jupyter Notebooks
 data/*
+*.ipynb
+.ipynb_checkpoints/*
+
+.vscode/*
+api/__pycache__/*
+api/.env
