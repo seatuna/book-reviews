@@ -1,5 +1,4 @@
 from sqlalchemy import inspect
-from sqlalchemy.dialects.postgresql import JSON
 from api import db
 
 
