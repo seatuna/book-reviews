@@ -18,5 +18,5 @@ data/*
 .ipynb_checkpoints/*
 
 .vscode/*
-api/__pycache__/*
 api/.env
+**/__pycache__/
